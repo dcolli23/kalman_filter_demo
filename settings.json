@@ -1,0 +1,12 @@
+{
+  "sensors": {
+    "velocity_sensor": {  
+      "sigma": 5, 
+      "mu": 0 
+    },
+    "position_sensor": { 
+      "sigma": 120, 
+      "mu": 0 
+    }
+  }
+}
