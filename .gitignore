@@ -1,0 +1,4 @@
+*.txt
+*.npy
+*.gif
+__pycache__
